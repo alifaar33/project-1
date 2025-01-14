@@ -1,0 +1,31 @@
+LANGUAGE = {
+    'en': {
+        'height': "Enter your height (m):",
+        'weight': "Enter your weight (kg):",
+        'age': "Enter your age:",
+        'gender': "Select your gender:",
+        'calculate': "Calculate BMI",
+        'bmi_result': "Your BMI is: ",
+        'bmi_category': "BMI Category: ",
+        'unit': "Select unit for height:",
+        'male': "Male",
+        'female': "Female",
+        'error_message': "Please enter valid values for height, weight, and age."
+    },
+    'bn': {
+        'height': "আপনার উচ্চতা (মি) দিন:",
+        'weight': "আপনার ওজন (কেজি) দিন:",
+        'age': "আপনার বয়স দিন:",
+        'gender': "আপনার লিঙ্গ নির্বাচন করুন:",
+        'calculate': "বিএমআই হিসাব করুন",
+        'bmi_result': "আপনার বিএমআই হল: ",
+        'bmi_category': "বিএমআই শ্রেণী: ",
+        'unit': "উচ্চতার জন্য একক নির্বাচন করুন:",
+        'male': "পুরুষ",
+        'female': "মহিলা",
+        'error_message': "উচ্চতা, ওজন এবং বয়সের জন্য বৈধ মান দিন।"
+    }
+}
+
+# Set the language here
+LANG = LANGUAGE['en']
